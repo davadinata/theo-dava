@@ -31,7 +31,7 @@ and slowly working my way through Japanese study notes 🇯🇵 (still at N5, bu
 I also run reality 🏃 (just capping, mate) — but for some reason, I keep getting stuck at 5 km (maybe one day I’ll break that wall).   
 <br>
 
-{{< admonition quote "Quote" false >}} For me, tech isn’t just about code — it’s about connecting ideas, people, and possibilities. And this little corner of the web is where I share a bit of that journey.
+{{< admonition quote "Quote" false >}} For me, tech isn’t just about code — it's about connecting ideas, people, and possibilities. And this little corner of the web is where I share a bit of that journey.
 {{< /admonition >}}
  😉 Wanna connect? → [Say Hi 👋](#linkedin.com)
 
