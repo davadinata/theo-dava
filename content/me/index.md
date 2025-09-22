@@ -43,5 +43,5 @@ I also run reality 🏃 (just capping, mate) — but for some reason, I keep get
 
 {{< admonition quote "Quote" false >}} For me, tech isn’t just about code — it’s about connecting ideas, people, and possibilities. And this little corner of the web is where I share a bit of that journey.
 {{< /admonition >}}
- 😉 Wanna connect? → [Say Hi 👋](https://www.linkedin.com/in/theodoxa-davadinata-689650115/)
+ ## Got something to say?  → [Let’s connect!](https://www.linkedin.com/in/theodoxa-davadinata-689650115/)
 
