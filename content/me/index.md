@@ -16,21 +16,21 @@ math:
 Right now, I’m working at **DataOn** as a **Implementation Consultant - Junior** — where I get to mix problem-solving, tech, and a bit of creativity every day. At the same time, I’m also continuing my studies, currently pursuing a **Master’s degree in Information Systems**.  
 
 
-> Still in progress, but I see it as part of the journey — sharpening both the way I think and the way I build. 
+> Not perfect yet, but each line of code sharpens the way I think and the way I create
 
 
 ### When it comes to coding, my main toolkit includes:  
 
 
-- **PHP (Laravel)** → my go-to for building solid web apps  
+- <img src="https://cdn.simpleicons.org/php" width="20"/> **PHP (Laravel)** → my go-to for building solid web apps  
 
-- **Go** → simple, fast, and fun to use for backend stuff  
+- <img src="https://cdn.simpleicons.org/go" width="20"/> **Go** → simple, fast, and fun to use for backend stuff  
 
-- **JavaScript** (plus React + Tailwind) → I hate to say that but, I’m not good enough in FE (still learning though 😅)  
+- <img src="https://cdn.simpleicons.org/javascript" width="20"/> **JavaScript** (plus React + Tailwind) → I hate to say that but, I’m not good enough in FE (still learning though 😅)  
 
-- **Python** → when I need to crunch data or automate things 
+- <img src="https://cdn.simpleicons.org/python" width="20"/> **Python** → when I need to crunch data or automate things 
 
-- **ColdFusion** → recently been working with it, and it’s actually kinda fun once you get the hang of it
+- <img src="/icons/cf.svg" width="20"/> **ColdFusion** → recently been working with it, and it’s actually kinda fun once you get the hang of it
 
 
 <br>
